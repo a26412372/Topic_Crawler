@@ -19,8 +19,8 @@
 
 ##### 手機端
 <p float="left">
-  <img width="75%" height="75%" src="https://github.com/a26412372/Topic_Crawler/blob/master/images/crawl6.png"/>
-  <img width="75%" height="75%" src="https://github.com/a26412372/Topic_Crawler/blob/master/images/crawl7.png"/>
+  <img width="35%" height="35%" src="https://github.com/a26412372/Topic_Crawler/blob/master/images/crawl6.png"/>
+  <img width="35%" height="35%" src="https://github.com/a26412372/Topic_Crawler/blob/master/images/crawl7.png"/>
 </p>
 
 ##### 後端管理平台
