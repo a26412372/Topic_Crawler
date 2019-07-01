@@ -24,8 +24,8 @@
 </p>
 
 ##### 後端管理平台
-<img width="75%" height="75%" src="https://github.com/a26412372/Topic_Crawler/blob/master/images/crawl8.png"/>
-<img width="75%" height="75%" src="https://github.com/a26412372/Topic_Crawler/blob/master/images/crawl9.png"/>
+<img width="85%" height="85%" src="https://github.com/a26412372/Topic_Crawler/blob/master/images/crawl8.png"/>
+<img width="85%" height="85%" src="https://github.com/a26412372/Topic_Crawler/blob/master/images/crawl9.png"/>
 
 ##### php程式可依使用者設定固定時間自動輸入指令執行爬蟲程式。
-<img width="75%" height="75%" src="https://github.com/a26412372/Topic_Crawler/blob/master/images/crawl10.png"/>
+<img width="85%" height="85%" src="https://github.com/a26412372/Topic_Crawler/blob/master/images/crawl10.png"/>
